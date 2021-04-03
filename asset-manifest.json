@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reat_site_template/static/css/main.afd7172b.chunk.css",
-    "main.js": "/reat_site_template/static/js/main.0dcd22c4.chunk.js",
-    "main.js.map": "/reat_site_template/static/js/main.0dcd22c4.chunk.js.map",
-    "runtime-main.js": "/reat_site_template/static/js/runtime-main.d0749bec.js",
-    "runtime-main.js.map": "/reat_site_template/static/js/runtime-main.d0749bec.js.map",
-    "static/js/2.5f137361.chunk.js": "/reat_site_template/static/js/2.5f137361.chunk.js",
-    "static/js/2.5f137361.chunk.js.map": "/reat_site_template/static/js/2.5f137361.chunk.js.map",
-    "static/js/3.e72c5af9.chunk.js": "/reat_site_template/static/js/3.e72c5af9.chunk.js",
-    "static/js/3.e72c5af9.chunk.js.map": "/reat_site_template/static/js/3.e72c5af9.chunk.js.map",
-    "index.html": "/reat_site_template/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/reat_site_template/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.5f137361.chunk.js.LICENSE.txt": "/reat_site_template/static/js/2.5f137361.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reat_site_template/static/media/logo.6ce24c58.svg"
+    "main.css": "/react_site_template/static/css/main.afd7172b.chunk.css",
+    "main.js": "/react_site_template/static/js/main.0dcd22c4.chunk.js",
+    "main.js.map": "/react_site_template/static/js/main.0dcd22c4.chunk.js.map",
+    "runtime-main.js": "/react_site_template/static/js/runtime-main.7e24810b.js",
+    "runtime-main.js.map": "/react_site_template/static/js/runtime-main.7e24810b.js.map",
+    "static/js/2.5f137361.chunk.js": "/react_site_template/static/js/2.5f137361.chunk.js",
+    "static/js/2.5f137361.chunk.js.map": "/react_site_template/static/js/2.5f137361.chunk.js.map",
+    "static/js/3.e72c5af9.chunk.js": "/react_site_template/static/js/3.e72c5af9.chunk.js",
+    "static/js/3.e72c5af9.chunk.js.map": "/react_site_template/static/js/3.e72c5af9.chunk.js.map",
+    "index.html": "/react_site_template/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/react_site_template/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5f137361.chunk.js.LICENSE.txt": "/react_site_template/static/js/2.5f137361.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_site_template/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0749bec.js",
+    "static/js/runtime-main.7e24810b.js",
     "static/js/2.5f137361.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.0dcd22c4.chunk.js"
